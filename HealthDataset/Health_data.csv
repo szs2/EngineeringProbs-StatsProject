@@ -1,0 +1,13 @@
+﻿ountry,Region,Age Group,Gender,Mean Total Cholesterol (mmol/L),Mean HDL Cholesterol (mmol/L),Mean LDL Cholesterol (mmol/L),Mean Triglycerides (mmol/L),Sample Size
+USA,North America,20-29,Male,4.8,1.1,3,1.5,500
+USA,North America,20-29,Female,4.6,1.3,2.8,1.4,520
+Canada,North America,30-39,Male,4.9,1.25,3.1,1.55,460
+Canada,North America,30-39,Female,4.7,1.45,2.9,1.5,480
+UK,Europe,20-29,Male,4.85,1.1,3.05,1.48,490
+UK,Europe,20-29,Female,4.65,1.3,2.85,1.42,500
+Australia,Oceania,30-39,Male,4.95,1.2,3.15,1.52,470
+Australia,Oceania,30-39,Female,4.75,1.4,2.95,1.45,480
+India,Asia,20-29,Male,4.7,1.15,2.95,1.5,460
+India,Asia,20-29,Female,4.5,1.35,2.75,1.4,470
+Brazil,South America,30-39,Male,4.85,1.18,3.05,1.55,480
+Brazil,South America,30-39,Female,4.65,1.38,2.85,1.48,490
